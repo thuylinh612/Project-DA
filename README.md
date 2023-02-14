@@ -2,6 +2,7 @@
 Include all data analysis projects that I have completed. 
 
 Queries in SQL project: 
+
 -- Query 01: calculate total visit, pageview, transaction and revenue for Jan, Feb and March 2017 order by month
 
 -- Query 02: Bounce rate per traffic source in July 2017
