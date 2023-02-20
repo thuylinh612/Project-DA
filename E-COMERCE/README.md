@@ -1,7 +1,5 @@
-# Project-DA
-Include all data analysis projects that I have completed. 
 
-Queries in SQL project: 
+Queries to explore e-commerce dataset (From website)
 
 -- Query 01: calculate total visit, pageview, transaction and revenue for Jan, Feb and March 2017 order by month
 
